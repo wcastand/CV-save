@@ -49,7 +49,7 @@ const experiences: Work = () => ({
     skills: `
       Working on a product full time instead of short projects for the first time, lead frontend.
       Working with FaaS, GraphQL, React, koa, Gatsby, NextJs, ...
-      Negociated 4h/week for the team to work on Open source and/or self learning.
+      Negotiated 4 h/week for the team to work on Open source and/or self learning.
       Started to learn Rust.
     `,
   },
