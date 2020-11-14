@@ -3,10 +3,10 @@ import { Informations, Skills, Education, Work } from 'self-description'
 const basic_infos: Informations = () => ({
   firstname: 'William',
   lastname: 'Castandet',
-  age: '26',
+  age: '29',
   location: 'France',
   email: 'wcastand@gmail.com',
-  phone: '+33 6 98 56 18 72',
+  phone: '+33 7 64 24 81 53',
   github: 'wcastand',
   npm: 'wcastand',
 })
