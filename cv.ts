@@ -3,7 +3,7 @@ import { Informations, Skills, Education, Work } from 'self-description'
 const basic_infos: Informations = () => ({
   firstname: 'William',
   lastname: 'Castandet',
-  age: '29',
+  age: 29,
   location: 'France',
   email: 'wcastand@gmail.com',
   phone: '+33 7 64 24 81 53',
@@ -83,6 +83,7 @@ const experiences: Work = () => ({
   april_marine: {
     year: 'April-August 2014',
     title: 'PHP developer | designer',
-    skills: `Create mobile website based on a design gave to me at the time. Help as a designer to create poster, ads and web design.`,
+    skills: `Create mobile website based on a design gave to me at the time. Help as a designer to
+    create poster, ads and web design.`,
   },
 })
